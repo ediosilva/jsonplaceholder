@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="28.25" tests="44" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.4+10-LTS"/>
+    <property name="sun.boot.library.path" value="C:\java\jdk-11.0.4\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:/Users/55519/Desktop/jsonplaceholder"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="BR"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\55519\Desktop\jsonplaceholder"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="11.0.4+10-LTS"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\55519\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:/apache-maven-3.6.2/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\java\jdk-11.0.4\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\55519\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\55519\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Grandle\gradle-5.6.2\bin;C:\Program Files\Git\cmd;C:\java\jdk-11.0.4;C:\Program Files\TortoiseGit\bin;C:\apache-maven-3.6.2\bin;C:\Users\55519\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="maven.conf" value="C:/apache-maven-3.6.2/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:/apache-maven-3.6.2/lib/jansi-native"/>
+    <property name="user.home" value="C:\Users\55519"/>
+    <property name="user.timezone" value="America/Sao_Paulo"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="55519"/>
+    <property name="java.class.path" value="C:/apache-maven-3.6.2/boot/plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="java.home" value="C:\java\jdk-11.0.4"/>
+    <property name="user.language" value="pt"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.4"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\apache-maven-3.6.2"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2019-07-16"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="validaPostsExcecao" classname="agibank.com.br.ValidacaoAlteracaoPosts" time="3.401"/>
+  <testcase name="validaPut" classname="agibank.com.br.ValidacaoAlteracaoPosts" time="0.884"/>
+  <testcase name="validaPut" classname="agibank.com.br.ValidacaoAlteracaoPosts" time="0.522"/>
+  <testcase name="validaPut" classname="agibank.com.br.ValidacaoAlteracaoPosts" time="0.546"/>
+  <testcase name="validaPut" classname="agibank.com.br.ValidacaoAlteracaoPosts" time="0.547"/>
+  <testcase name="validaPut" classname="agibank.com.br.ValidacaoAlteracaoPosts" time="0.556"/>
+  <testcase name="validaPut" classname="agibank.com.br.ValidacaoAlteracaoPosts" time="0.535"/>
+  <testcase name="validaPut" classname="agibank.com.br.ValidacaoAlteracaoPosts" time="0.572"/>
+  <testcase name="validaPut" classname="agibank.com.br.ValidacaoAlteracaoPosts" time="0.563"/>
+  <testcase name="validaPut" classname="agibank.com.br.ValidacaoAlteracaoPosts" time="0.54"/>
+  <testcase name="validaPut" classname="agibank.com.br.ValidacaoAlteracaoPosts" time="0.57"/>
+  <testcase name="validaBuscaUsuarioInexistente" classname="agibank.com.br.ValidacaoConsultaUsuario" time="0.623"/>
+  <testcase name="validaListaException" classname="agibank.com.br.ValidacaoConsultaUsuario" time="0.593"/>
+  <testcase name="validaUsuarioIdInteiro" classname="agibank.com.br.ValidacaoConsultaUsuario" time="0.532"/>
+  <testcase name="validaUsuarios" classname="agibank.com.br.ValidacaoConsultaUsuario" time="0.439"/>
+  <testcase name="validaUsuarios" classname="agibank.com.br.ValidacaoConsultaUsuario" time="0.562"/>
+  <testcase name="validaUsuarios" classname="agibank.com.br.ValidacaoConsultaUsuario" time="0.437"/>
+  <testcase name="validaUsuarios" classname="agibank.com.br.ValidacaoConsultaUsuario" time="0.548"/>
+  <testcase name="validaUsuarios" classname="agibank.com.br.ValidacaoConsultaUsuario" time="0.424"/>
+  <testcase name="validaUsuarios" classname="agibank.com.br.ValidacaoConsultaUsuario" time="0.532"/>
+  <testcase name="validaUsuarios" classname="agibank.com.br.ValidacaoConsultaUsuario" time="0.548"/>
+  <testcase name="validaUsuarios" classname="agibank.com.br.ValidacaoConsultaUsuario" time="0.554"/>
+  <testcase name="validaUsuarios" classname="agibank.com.br.ValidacaoConsultaUsuario" time="0.627"/>
+  <testcase name="validaUsuarios" classname="agibank.com.br.ValidacaoConsultaUsuario" time="0.593"/>
+  <testcase name="validaPosts" classname="agibank.com.br.ValidacaoInsercaoPosts" time="0.577"/>
+  <testcase name="validaPosts" classname="agibank.com.br.ValidacaoInsercaoPosts" time="0.517"/>
+  <testcase name="validaPosts" classname="agibank.com.br.ValidacaoInsercaoPosts" time="0.533"/>
+  <testcase name="validaPosts" classname="agibank.com.br.ValidacaoInsercaoPosts" time="0.562"/>
+  <testcase name="validaPosts" classname="agibank.com.br.ValidacaoInsercaoPosts" time="0.933"/>
+  <testcase name="validaPosts" classname="agibank.com.br.ValidacaoInsercaoPosts" time="0.625"/>
+  <testcase name="validaPosts" classname="agibank.com.br.ValidacaoInsercaoPosts" time="0.587"/>
+  <testcase name="validaPosts" classname="agibank.com.br.ValidacaoInsercaoPosts" time="0.547"/>
+  <testcase name="validaPosts" classname="agibank.com.br.ValidacaoInsercaoPosts" time="0.562"/>
+  <testcase name="validaPosts" classname="agibank.com.br.ValidacaoInsercaoPosts" time="0.563"/>
+  <testcase name="validaExcluirPosts" classname="agibank.com.br.ValidacaoRemocaoPosts" time="0.597"/>
+  <testcase name="validaExcluirPosts" classname="agibank.com.br.ValidacaoRemocaoPosts" time="0.623"/>
+  <testcase name="validaExcluirPosts" classname="agibank.com.br.ValidacaoRemocaoPosts" time="0.547"/>
+  <testcase name="validaExcluirPosts" classname="agibank.com.br.ValidacaoRemocaoPosts" time="0.699"/>
+  <testcase name="validaExcluirPosts" classname="agibank.com.br.ValidacaoRemocaoPosts" time="0.542"/>
+  <testcase name="validaExcluirPosts" classname="agibank.com.br.ValidacaoRemocaoPosts" time="0.571"/>
+  <testcase name="validaExcluirPosts" classname="agibank.com.br.ValidacaoRemocaoPosts" time="0.584"/>
+  <testcase name="validaExcluirPosts" classname="agibank.com.br.ValidacaoRemocaoPosts" time="0.539"/>
+  <testcase name="validaExcluirPosts" classname="agibank.com.br.ValidacaoRemocaoPosts" time="0.654"/>
+  <testcase name="validaExcluirPosts" classname="agibank.com.br.ValidacaoRemocaoPosts" time="0.64"/>
+</testsuite>

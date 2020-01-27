@@ -1,0 +1,14 @@
+objetos\Geo.class
+objetos\Company.class
+agibank\com\br\ValidacaoAlteracaoPosts.class
+dataprovider\DataProviderAlbum.class
+objetos\Address.class
+objetos\Posts.class
+dataprovider\DataProviderPosts.class
+agibank\com\br\ValidacaoRemocaoPosts.class
+agibank\com\br\ValidacaoInsercaoPosts.class
+objetos\Todos.class
+objetos\Usuario.class
+agibank\com\br\ValidacaoConsultaUsuario.class
+objetos\Album.class
+dataprovider\DataProviderUsuario.class
